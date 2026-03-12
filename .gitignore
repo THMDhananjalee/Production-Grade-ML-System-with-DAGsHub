@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# DVC local config (contains credentials – do not commit)
+.dvc/config.local
+
+# Model files (optional – if you don't want to commit models)
+models/
+*.pkl
+
+# Plots (optional – if you don't want to commit them)
+*.png
+*.jpg
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
