@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/thdananjalee/Production-Grade-ML-System-with-DAGsHub.dvc
